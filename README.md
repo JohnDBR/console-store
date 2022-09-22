@@ -1,5 +1,3 @@
 # console-store
 
-TODO: 
- - Handle Products.
- - Handle Users && Budget.
+run with 'dart store.dart'
